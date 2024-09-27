@@ -1,16 +1,14 @@
-## Hi there 👋
+### Boas vindas ao meu perfil ❤️
 
-<!--
-**luis17072008/luis17072008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é luis
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001095007737SP@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/tBkzk_5sfJ4AAAAC/lion-roar.gif)
+
